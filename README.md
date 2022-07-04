@@ -56,7 +56,7 @@ Credits to **Groosha** for the actual version, I've simply added certain feature
  
 ## Prerequisites
 * Python 3 (works only with Python3);
-* [pyTelegramBotAPI](https://github.com/eternnoir/pyTelegramBotAPI/) library (with bot 2.0 support);
+* [pyTelegramBotAPI](https://github.com/trhacknon/pyTelegramBotAPI/) library (with bot 2.0 support);
 * Telegram account.
 * Basic Knowledge about coding of course! 
 * And the ability to read the manual patiently :D 
